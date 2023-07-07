@@ -1,12 +1,12 @@
 # PAC
 
-#### Install dependencies
+### Install dependencies
 
 See `requirment.txt` file for more information about how to install the dependencies.
 
 
 
-#### Get the data and statistics
+### Get the data and statistics
 
 Once grid2op is installed, you can get the data directly from the internet. This download will happen automatically the first time you create the environment.
 
@@ -26,7 +26,7 @@ All data and statistics should be placed in the `PAC/data_grid2op` directory.
 
 
 
-#### Run
+### Usage
 
 ```
 python train.py
